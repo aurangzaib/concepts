@@ -1,0 +1,12 @@
+[submodule "concepts-javascript"]
+	path = concepts-javascript
+	url = https://github.com/aurangzaib/concepts-javascript
+[submodule "concepts-python"]
+	path = concepts-python
+	url = https://github.com/aurangzaib/concepts-python
+[submodule "concepts-cpp"]
+	path = concepts-cpp
+	url = https://github.com/aurangzaib/concepts-cpp
+[submodule "concepts-git"]
+	path = concepts-git
+	url = https://github.com/aurangzaib/concepts-git
