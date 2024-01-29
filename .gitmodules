@@ -16,3 +16,6 @@
 [submodule "concepts-ai"]
 	path = concepts-ai
 	url = https://github.com/aurangzaib/concepts-ai.git
+[submodule "concepts-work"]
+	path = concepts-work
+	url = https://github.com/aurangzaib/concepts-work.git
