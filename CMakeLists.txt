@@ -7,7 +7,3 @@ set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 
 include(CPack)
-
-find_package(xtensor REQUIRED)
-target_include_directories(concepts-cpp PUBLIC ${xtensor_INCLUDE_DIRS})
-target_link_libraries(concepts-cpp PUBLIC xtensor)
