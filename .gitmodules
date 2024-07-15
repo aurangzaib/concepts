@@ -22,3 +22,6 @@
 [submodule "concepts-project"]
 	path = concepts-project
 	url = https://github.com/aurangzaib/concepts-project
+[submodule "concepts-mlops"]
+	path = concepts-mlops
+	url = https://github.com/aurangzaib/concepts-mlops.git
