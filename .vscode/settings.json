@@ -57,7 +57,8 @@
         "variant": "cpp",
         "algorithm": "cpp",
         "iterator": "cpp",
-        "memory_resource": "cpp"
+        "memory_resource": "cpp",
+        "execution": "cpp"
     },
     "git.ignoreLimitWarning": true
 }
